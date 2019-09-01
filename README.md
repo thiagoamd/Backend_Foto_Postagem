@@ -7,7 +7,8 @@ Parte do backend do sistema de postagem de foto, com as tecnologias:
 -Mongoose 
 -Express 
 -Multer 
--Sharp 
+-Sharp
+-Socket.io
 
 Sistema realiza o cadastro de fotos seguindo as caraterísticas abaixo: 
 
